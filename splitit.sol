@@ -1,5 +1,5 @@
 //SplitIt 
-//Tutorial: https://www.youtube.com/watch?v=TC-bDQZbXd0
+
 pragma solidity ^0.4.18;
 contract SplitIt {
     
